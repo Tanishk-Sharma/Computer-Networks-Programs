@@ -4,15 +4,15 @@
 
 **1.**		Introduction to basic Linux networking commands. (Commands like **ipconfig, getmac, tracert, pathping, arp, ping, netstat, finger** etc.)
 
-**2.**		Implement **Bit Stuffing** and **De-Stuffing**.
+**2.**		Implementing **Bit Stuffing** and **De-Stuffing**.
 
-**3.**		Write a program for **Hamming code generation** for error detection and correction.
+**3.**		A program for **Hamming code generation** for error detection and correction.
  
-**4.**		Implement **Cyclic Redundancy Check (CRC)**.
+**4.**		Implementing **Cyclic Redundancy Check (CRC)**.
 
-**5.**		Write a program for Congestion Control using the **Leaky Bucket algorithm**.
+**5.**		A program for Congestion Control using the **Leaky Bucket algorithm**.
 
-**6.**		Implement **Dijkstra’s algorithm** to compute a shortest path through graph.
+**6.**		Implementing **Dijkstra’s algorithm** to compute a shortest path through graph.
  
 **7.**		Take a 64-bit plain text and encrypt the same using **DES algorithm**.
   
