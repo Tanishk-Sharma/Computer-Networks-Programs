@@ -1,7 +1,7 @@
 # Bit Stuffing / De Stuffing
 
 <p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/32167236/96001530-c1b7f680-0e55-11eb-8589-cf9ae1bde4d6.png">
+  <img src="https://user-images.githubusercontent.com/32167236/96001530-c1b7f680-0e55-11eb-8589-cf9ae1bde4d6.png">
 </p>
 
 In data transmission and telecommunication, bit stuffing (also known—uncommonly—as positive justification) is the insertion of non information bits into data. 
