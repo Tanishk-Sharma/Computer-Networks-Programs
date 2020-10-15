@@ -3,7 +3,9 @@
 In telecommunication, a Hamming code is a linear error-correcting code named after its inventor, Richard Hamming. 
 Hamming codes can detect up to two simultaneous bit errors, and correct single-bit errors; thus, reliable communication is possible when the Hamming distance between the transmitted and received bit patterns is less than or equal to one. 
 By contrast, the simple parity code cannot correct errors, and can only detect an odd number of errors.
-
+<p align="center">
+  <img src="https://media.geeksforgeeks.org/wp-content/uploads/20200424184419/hamming_code.png">
+</p>
 ## Steps
 
 The key to the Hamming Code is the use of extra parity bits to allow the identification of a single error.
